@@ -1,0 +1,20 @@
+name: "ImageMenu"
+web: "[Pathfusion ImageMenu](http://dev.phatfusion.net/imagemenu/)"
+description: "horizontal menu, reveals more of the image as you rollover it."
+authors: 
+  - "[Arian Stolwijk](http://www.aryweb.nl)"
+  - "[Pathfusion](http://www.phatfusion.net)"
+
+license: "MIT License"
+
+sources:
+  - "Source/ImageMenu.js"
+
+# Values for MooTools forge
+
+author: astolwijk
+current: 2.4
+docs: http://dev.phatfusion.net/imagemenu/
+demo: http://dev.phatfusion.net/imagemenu/
+category: Effects
+tags: [ImageMenu, Pathfusion, Menu]

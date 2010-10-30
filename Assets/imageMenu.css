@@ -1,12 +1,3 @@
-/*
-
-*, html {
-	margin: 0;
-	padding: 0;
-}
-
-*/
-
 /**************************************************************
 
 	Image Menu
@@ -22,16 +13,13 @@
 	overflow: hidden;
 }
 
-
-
 .imageMenu ul {
 	list-style: none;
 	margin: 0px;
 	display: block;
 	height: 200px;
 	width: 1000px;
-	
-	}
+}
 
 .imageMenu ul li {
 	float: left;
@@ -39,33 +27,33 @@
 
 .imageMenu ul li a {
 	text-indent: -1000px;
-	background:#FFFFFF none repeat scroll 0%;
+	background: #FFFFFF none repeat scroll 0%;
 	border-right: 2px solid #fff;
-	cursor:pointer;
-	display:block;
-	overflow:hidden;
-	width:98px;
+	cursor: pointer;
+	display: block;
+	overflow: hidden;
+	width: 90px;
 	height: 200px;
 }
 
 .imageMenu ul li.landscapes a {
-	background: url(../_img/imageMenu/landscapes.jpg) repeat scroll 0%;
+	background: url(landscapes.jpg) repeat scroll 0%;
 }
 
 .imageMenu ul li.people a {
-	background: url(../_img/imageMenu/people.jpg) repeat scroll 0%;
+	background: url(people.jpg) repeat scroll 0%;
 }
 
 .imageMenu ul li.nature a {
-	background: url(../_img/imageMenu/nature.jpg) repeat scroll 0%;
+	background: url(nature.jpg) repeat scroll 0%;
 }
 
 .imageMenu ul li.urban a {
-	background: url(../_img/imageMenu/urban.jpg) repeat scroll 0%;
+	background: url(urban.jpg) repeat scroll 0%;
 }
 
 .imageMenu ul li.abstract a {
-	background: url(../_img/imageMenu/abstract.jpg) repeat scroll 0%;
+	background: url(abstract.jpg) repeat scroll 0%;
 	width: 310px;
 }
 
